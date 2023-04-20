@@ -55,6 +55,7 @@
     <Content Include="plik1.txt" />
     <Content Include="plik3.txt" />
     <Content Include="TextFile1.txt" />
+    <Content Include="Plik5zaka.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
